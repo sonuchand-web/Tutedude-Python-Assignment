@@ -11,7 +11,7 @@ Problem Statement: Write a Python program that does the following:
 	Division
 3.  Displays the results of each operation on the screen.
 '''
-a=input("Enter the first Number: ")
+a=input("Enter the first number: ")
 a=float(a)
 b=input("Enter the second number: ")
 b=float(b)
